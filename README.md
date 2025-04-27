@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvanvarma&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvanvarma" /> </p>
 
-- 🌱 I’m currently learning **VUE.JS** <img align="center" src="https://images.app.goo.gl/mDsnGL6BYgTbGMAX7" alt="vue" height="32" width="43" /> 
+- 🌱 I’m currently learning **REACT.JS** <img align="center" src="[https://images.app.goo.gl/mDsnGL6BYgTbGMAX7](https://images.app.goo.gl/cgGfjznUCpGW8zjJ8)" alt="React" height="32" width="43" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
